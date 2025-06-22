@@ -84,7 +84,17 @@ From the top 20 recommendations, we pick the top 5 products with the highest pos
   
    pip install -r requirements.txt
    ```
+3. **Run locally:**
 
+   ```bash
+  
+   python app.py
+   ```
+  Visit http://127.0.0.1:5000/ in your browser.
+
+4.**Deployment on Heroku:**
+  Push your code to a Heroku app using Git.
+  Make sure to include: Procfile , requirements.txt
 
 ## Dataset Overview
   Reviews: 30,000+
