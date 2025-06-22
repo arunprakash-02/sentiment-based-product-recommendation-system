@@ -1,6 +1,24 @@
-# Ebuss Sentiment-Based Product Recommendation System
+# Overview
 ---
-Welcome to the Sentiment-Based Product Recommendation System, an end-to-end Machine Learning project designed as part of the upGrad & IIIT-B Machine Learning and AI Program – April 2024.This project simulates a real-world scenario at a fictional e-commerce company named Ebuss, aiming to enhance product recommendations by combining collaborative filtering and sentiment analysis.
+E-commerce businesses like Amazon, Flipkart, Myntra, and Paytm have revolutionized how consumers purchase products. Instead of physical visits, customers now order directly from websites. In this digital age, product recommendation systems play a critical role in personalizing the shopping experience and increasing sales.
+
+Suppose you are working as a Senior Machine Learning Engineer at a growing e-commerce platform called Ebuss. Ebuss deals in a wide variety of product categories such as:
+
+1.Household essentials
+
+2.Books
+
+3.Personal care and healthcare products
+
+4.Beauty and cosmetic items
+
+5.Medicines
+
+6.Kitchen and dining appliances
+
+7.Electrical products
+
+To compete with market giants, Ebuss must leverage data and ML models to improve its recommendation engine by incorporating both user behavior and sentiment from reviews.
 
 
 ## Problem Statement
@@ -97,6 +115,7 @@ From the top 20 recommendations, we pick the top 5 products with the highest pos
   Make sure to include: Procfile , requirements.txt
 
 ## Dataset Overview
+  Source :https://www.kaggle.com/datasets/datafiniti/grammar-and-online-product-reviews
   Reviews: 30,000+
   Users: 20,000+
   Products: 200+
