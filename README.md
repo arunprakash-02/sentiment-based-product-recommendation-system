@@ -86,6 +86,12 @@ From the top 20 recommendations, we pick the top 5 products with the highest pos
    ```
 
 
+## Dataset Overview
+  Reviews: 30,000+
+  Users: 20,000+
+  Products: 200+
+  Key Fields:  reviews_username, reviews_rating , reviews_text, product_name
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
