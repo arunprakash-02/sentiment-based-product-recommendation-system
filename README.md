@@ -115,10 +115,10 @@ From the top 20 recommendations, we pick the top 5 products with the highest pos
   Make sure to include: Procfile , requirements.txt
 
 ## Dataset Overview
-  Source :https://www.kaggle.com/datasets/datafiniti/grammar-and-online-product-reviews
-  Reviews: 30,000+
-  Users: 20,000+
-  Products: 200+
+  Source :https://www.kaggle.com/datasets/datafiniti/grammar-and-online-product-reviews 
+  Reviews: 30,000+ 
+  Users: 20,000+ 
+  Products: 200+ 
   Key Fields:  reviews_username, reviews_rating , reviews_text, product_name
 
 ## License
